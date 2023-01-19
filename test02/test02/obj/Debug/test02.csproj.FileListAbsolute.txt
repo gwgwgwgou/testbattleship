@@ -1,0 +1,11 @@
+C:\Users\Γωγώ\source\repos\test02\test02\bin\Debug\test02.exe.config
+C:\Users\Γωγώ\source\repos\test02\test02\bin\Debug\test02.exe
+C:\Users\Γωγώ\source\repos\test02\test02\bin\Debug\test02.pdb
+C:\Users\Γωγώ\source\repos\test02\test02\obj\Debug\test02.csproj.AssemblyReference.cache
+C:\Users\Γωγώ\source\repos\test02\test02\obj\Debug\test02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Γωγώ\source\repos\test02\test02\obj\Debug\test02.Form1.resources
+C:\Users\Γωγώ\source\repos\test02\test02\obj\Debug\test02.Properties.Resources.resources
+C:\Users\Γωγώ\source\repos\test02\test02\obj\Debug\test02.csproj.GenerateResource.cache
+C:\Users\Γωγώ\source\repos\test02\test02\obj\Debug\test02.csproj.CoreCompileInputs.cache
+C:\Users\Γωγώ\source\repos\test02\test02\obj\Debug\test02.exe
+C:\Users\Γωγώ\source\repos\test02\test02\obj\Debug\test02.pdb
